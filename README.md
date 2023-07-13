@@ -1,5 +1,7 @@
 ### 📌 Tož já so @HynPl
 I’m @HynPl
+<br>
+Co fčel omim? What I can? Revit, Grasshopper, C#, HTML, CSS, JS
 <hr>
 
 ### Projects:
