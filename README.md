@@ -4,8 +4,7 @@ I’m @HynPl
 ### Projekte
 Projects:
 - Grassopper plug-in k vektorizaci pixelových obrázků
-<br>
 https://github.com/HynPl/DetectLinesInPicture
-
+<br>
 ### How to reach me ...
 E-mail: geftgames@gmail.com
