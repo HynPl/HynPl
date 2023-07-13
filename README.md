@@ -1,8 +1,8 @@
-###Tož já so @HynPl
+### Tož já so @HynPl
 <br>
 I’m @HynPl
 
-###Projekte
+### Projekte
 <br>
 Projects:
 - Grassopper plug-in k vektorizaci pixelových obrázků
