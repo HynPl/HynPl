@@ -15,4 +15,4 @@ Co fčel omim? What I can do? Revit, Grasshopper, C#, HTML, CSS, JS
 <hr>
 
 ### How to reach me ...
-E-mail: geftgames@gmail.com
+E-mail: -
