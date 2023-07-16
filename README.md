@@ -9,7 +9,7 @@ Co fčel omim? What I can do? Revit, Grasshopper, C#, HTML, CSS, JS
 - Grassopper plug-in k vektorizaci pixelových obrázků
 <br>
 <br>
-<h4>⏳ CheckStandarts</h4> 
+<h4>⏳ <a href="https://github.com/HynPl/CheckStandarts">CheckStandarts</a></h4> 
 - Revit check standars in CZ
 <br>
 <hr>
