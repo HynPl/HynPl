@@ -1,5 +1,4 @@
 ### 📌 @HynPl
-<br>
 <hr>
 
 ### Projecty:
@@ -8,7 +7,7 @@
 <br>
 <br>
 <h4>✔️ <a href="https://github.com/HynPl/CheckStandarts">CheckStandarts</a></h4> 
-- Revit check standars in CZ
+- Ověření geometrie projektu v CZ
 <br>
 <hr>
 
