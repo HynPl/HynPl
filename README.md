@@ -1,5 +1,4 @@
-### 📌 Tož já so @HynPl
-I’m @HynPl
+### 📌 @HynPl
 <br>
 <hr>
 
