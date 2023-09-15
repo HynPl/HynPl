@@ -2,7 +2,7 @@
 <br>
 <hr>
 
-### Projects:
+### Projecty:
 <h4>✔️ <a href="https://github.com/HynPl/DetectLinesInPicture">DetectLinesInPicture</a></h4> 
 - Grassopper plug-in k vektorizaci pixelových obrázků
 <br>
@@ -12,5 +12,3 @@
 <br>
 <hr>
 
-### How to reach me ...
-E-mail: -
