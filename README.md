@@ -10,5 +10,5 @@
 - Ověření geometrie Autodesk Revit projektu v CZ
 <br>
 <br>
-<h4>📌 <a href="https://github.com/HynPl/DetectLinesInPicture">ArcGISProShadowTool</a></h4> 
+<h4>📌 <a href="https://github.com/HynPl/ArcGISProShadowTool">ArcGISProShadowTool</a></h4> 
 - Grafický stín pro ArcGIS vrstvu
