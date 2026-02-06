@@ -1,4 +1,4 @@
-### 📌 @HynPl
+### @HynPl
 <hr>
 
 ### Projecty:
@@ -9,6 +9,6 @@
 <h4>📌 <a href="https://github.com/HynPl/CheckStandarts">CheckStandarts</a></h4> 
 - Ověření geometrie Autodesk Revit projektu v CZ
 <br>
-<hr>
+<br>
 <h4>📌 <a href="https://github.com/HynPl/DetectLinesInPicture">ArcGISProShadowTool</a></h4> 
 - Grafický stín pro ArcGIS vrstvu
