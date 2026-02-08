@@ -1,7 +1,8 @@
 ### @HynPl
+Otevřené projekty vytvořené ve volném čase a školní projekty.
 <hr>
 
-### Projecty:
+### Projekty:
 <h4>📌 <a href="https://github.com/HynPl/DetectLinesInPicture">DetectLinesInPicture</a></h4> 
 - Grassopper plug-in k vektorizaci pixelových obrázků
 <br>
